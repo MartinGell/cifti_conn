@@ -1,4 +1,4 @@
-# Brain-behaviour Predictions
+# Cifti Connectivity
 
 This repository holds scripts to create `dconn` and `pconn` cifti files from `dtseries` or `ptseries` using data from s3 bucket that were preprocessed with xcpd. For any questions contact me @ martygell@gmail.com
 
